@@ -26,7 +26,7 @@ author:
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/0.1"
+      url: "http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/index-en.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/cultura-ocio-lugares-interes"
