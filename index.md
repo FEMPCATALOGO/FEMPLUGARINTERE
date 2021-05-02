@@ -22,8 +22,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Turismo   Lugares | En proceso | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/index-en.html)* *[Repositorio](https://github.com/opencitydata/cultura-ocio-lugares-interes)*   |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-lugares-interes/issues)*   | Vocabulario para la representación de datos de lugares de interés turístico, viajes, rutas, etc., en España
-Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR.   | 17/05/2018 | estur  | rdf+xml   html   turtle | CC-BY  | es |
+| Turismo   Lugares | En proceso | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/index-en.html)* *[Repositorio](https://github.com/opencitydata/cultura-ocio-lugares-interes)*   |  *[Generar issue](https://github.com/opencitydata/cultura-ocio-lugares-interes/issues)*   | Vocabulario para la representación de datos de lugares de interés turístico, viajes, rutas, etc., en España. Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR.   | 17/05/2018 | estur  | rdf+xml   html   turtle | CC-BY  | es |
  
  
  
