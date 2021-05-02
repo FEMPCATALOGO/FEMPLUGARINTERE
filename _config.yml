@@ -20,16 +20,16 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  name   : "Lugar de interés turístico"
+  avatar : "img/lugar.png"
+  bio    : "Vocabulario para la representación de datos de lugares de interés turístico, viajes, rutas, etc, en España."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+      url: "http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/0.1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+      url: "https://github.com/opencitydata/cultura-ocio-lugares-interes"
 
 
 
